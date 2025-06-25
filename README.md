@@ -1,20 +1,50 @@
-# Hi, I'm Himani Sharma!
+# Himani Sharma – Data Analyst Portfolio
 
-**Aspiring Data Analyst** | B.Tech in Computer Science (AI & ML)  
-Passionate about turning raw data into powerful insights that drive business decisions.
-
----
-
-## **About Me**
-I'm a recent graduate with a strong foundation in **data analysis, visualization, and statistics**. I love solving real-world problems through **data cleaning**, **EDA**, and building intuitive **dashboards** using tools like Excel, SQL, Python, Power BI.
+Welcome to my data analytics portfolio! This repository contains my **resume**, **internship certificate**, and other documents showcasing my skills, experience, and certifications as a Data Analyst.
 
 ---
 
-## **Skills & Tools**
-- **Languages:** Python (Pandas, NumPy, Matplotlib), SQL (MySQL, PostgreSQL)
-- **Data Tools:** Excel (PivotTables, INDEX-MATCH, Power Query), Power BI, Tableau
-- **Concepts:** Data Wrangling, ETL, Business Intelligence, Dashboarding, Data Visualization
-- **Other Tools:** GitHub, WordPress
+## Resume
+
+**Download my latest resume:**  
+ [Download Resume (PDF)](https://bit.ly/HimaniResumeAnalyst)
+
+
+---
+
+## Internship Experience
+
+**Organization:** Technology Next  
+**Role:** Data Analyst Intern  
+**Duration:** April 10 - June 10, 2025  
+**Intern ID:** TN-152
+
+**Key Contributions:**
+- Worked on real-time data projects and dashboards
+- Participated in Agile-based team sprints and planning
+- Used Excel, Power BI, SQL, and Python for data analysis and visualization
+- Delivered optimized reporting solutions aligned with business needs
+
+📎 **Certificate:**  
+ [View Internship Certificate](https://drive.google.com/file/d/1yPbUsSPvDBDkGvb1AIdnKtaZ5dzkI3kF/view?usp=drivesdk)
+ [View delloite Certificate](https://drive.google.com/file/d/1vNtL2gnoBileVdfVr__vgPf3GBY-euAt/view?usp=drivesdk).
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, SQL  
+- **Tools:** Power BI, Excel, Tableau, GitHub  
+- **Libraries:** Pandas, Matplotlib, Seaborn  
+- **Concepts:** EDA, Dashboarding, Data Cleaning, Reporting, Business Intelligence  
+
+---
+
+## 🧾 Certifications
+
+- Analytics Virtual Experience – **Forage**  
+- Python for Beginners – **Microsoft**  
+- Internship Certificate – **Technology Next**
 
 ---
 
@@ -37,18 +67,12 @@ I'm a recent graduate with a strong foundation in **data analysis, visualization
 
 ---
 
-## **Certifications**
-- **SQL (4 stars)** – HackerRank  
-- **Python Fundamentals** – Microsoft
+## 📬 Let's Connect
 
----
-
-## **Let's Connect**
 - **Email:** sharmahimani9380@gmail.com  
-- **LinkedIn:** [linkedin.com/in/himani-sharma](https://www.linkedin.com/in/himani-sharma-3a2024228)  
-- **Resume:** [Download Resume (PDF)](https://drive.google.com/file/d/1vClcejlSLUCK3Y_vcWq0w2NnO-Ww0KMA/view?usp=drivesdk)
+- **LinkedIn:** [Himani Sharma](https://www.linkedin.com/in/himani-sharma-3a2024228)  
+- **GitHub:** [Himani0025](https://github.com/Himani0025)
 
 ---
 
-_“Data is the new oil. But like oil, it’s only valuable once refined.”_
-
+> Thanks for visiting my portfolio! Feel free to explore and reach out if you're hiring or collaborating.
