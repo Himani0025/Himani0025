@@ -60,15 +60,17 @@ CASE
 - Identified loss-making products and low-profit regions
 - Reduced manual reporting effort by 70%
 
+
+### [HR-Attrition-Performance-Analytics-Dashboard](https://github.com/Himani0025/HR-Attrition-Performance-Analytics-Dashboard)
+*Tools:* SQL, Power BI  
+- Analyzed employee attrition, performance, and retention trends
+- Identified high-risk departments and productivity gaps.
+
+
 ### [Customer Behavior Analysis](https://github.com/Himani0025/Customer-Behavior-Analysis)
 *Tool:* SQL  
 - Analyzed e-commerce user behavior: purchases, cart abandonment, customer retention.
 - Wrote optimized queries and views for behavior segmentation.
-
-### [HR Analytics Dashboard](https://github.com/Himani0025/HR-Analytics-Dashboard)
-*Tools:* Python, Power BI  
-- Investigated causes of attrition using HR data.
-- Visualized retention and performance metrics for actionable insights.
 
 ---
 
