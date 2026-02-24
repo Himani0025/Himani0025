@@ -27,7 +27,7 @@ Welcome to my data analytics portfolio! This repository contains my **resume**, 
 
 📎 **Certificate:**  
  [View Internship Certificate](https://github.com/Himani0025/Himani0025/blob/main/Internship_Certificate_HimaniSharma.pdf)
- [View delloite Certificate](https://drive.google.com/file/d/1vNtL2gnoBileVdfVr__vgPf3GBY-euAt/view?usp=drivesdk).
+ [View delloite Certificate](https://github.com/Himani0025/Himani0025/blob/main/Data%20analytics%20certificate.pdf).
 
 ---
 
