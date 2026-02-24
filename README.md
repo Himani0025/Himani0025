@@ -52,10 +52,13 @@ Welcome to my data analytics portfolio! This repository contains my **resume**, 
 
 ## **Projects**
 
-### [Sales Performance Dashboard](https://github.com/Himani0025/Sales-Performance-Dashboard)
-*Tool:* Excel  
-- Built an interactive dashboard analyzing multi-store retail sales.
-- Identified top-performing stores, seasonal trends, and high-selling categories.
+### Retail-Sales-Performance-Profitability-Analytics](https://github.com/Himani0025/Retail-Sales-Performance-Profitability-Analytics-)
+*Tool:* Excel, SQL, Power BI  
+-  Designed relational SQL databases and wrote complex queries using JOIN, GROUP BY, HAVING, and
+CASE
+- Built interactive Power BI dashboards to analyze sales trends, profit margins, and regional performance
+- Identified loss-making products and low-profit regions
+- Reduced manual reporting effort by 70%
 
 ### [Customer Behavior Analysis](https://github.com/Himani0025/Customer-Behavior-Analysis)
 *Tool:* SQL  
