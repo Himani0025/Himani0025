@@ -7,7 +7,7 @@ Welcome to my data analytics portfolio! This repository contains my **resume**, 
 ## Resume
 
 **Download my latest resume:**  
- [Download Resume (PDF)](https://bit.ly/HimaniResumeAnalyst)
+ [Download Resume (PDF)](https://bit.ly/"C:\Users\Himani Sharma\Downloads\HimaniDAFF.pdf")
 
 
 ---
