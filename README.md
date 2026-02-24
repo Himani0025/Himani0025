@@ -67,6 +67,14 @@ CASE
 - Identified high-risk departments and productivity gaps.
 
 
+## [Healthcare-Readmission_Analysis](https://github.com/Himani0025/Healthcare-Readmission-Analysis)
+*Tools:* Excel, Python, SQL, Power BI
+-  Analyzed 100K+ patient records to identify key factors driving hospital readmission and treatment
+patterns.
+- Performed data cleaning and analysis using Python and SQL, and built an interactive Power BI dash
+board to track readmission and patient risk metrics.
+- Generated actionable insights to support cost optimization and improve patient follow-up strategies.
+
 ### [Customer Behavior Analysis](https://github.com/Himani0025/Customer-Behavior-Analysis)
 *Tool:* SQL  
 - Analyzed e-commerce user behavior: purchases, cart abandonment, customer retention.
