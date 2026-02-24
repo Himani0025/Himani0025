@@ -26,7 +26,7 @@ Welcome to my data analytics portfolio! This repository contains my **resume**, 
 - Delivered optimized reporting solutions aligned with business needs
 
 📎 **Certificate:**  
- [View Internship Certificate](https://drive.google.com/file/d/1yPbUsSPvDBDkGvb1AIdnKtaZ5dzkI3kF/view?usp=drivesdk)
+ [View Internship Certificate](https://github.com/Himani0025/Himani0025/blob/main/Internship_Certificate_HimaniSharma.pdf)
  [View delloite Certificate](https://drive.google.com/file/d/1vNtL2gnoBileVdfVr__vgPf3GBY-euAt/view?usp=drivesdk).
 
 ---
@@ -35,7 +35,7 @@ Welcome to my data analytics portfolio! This repository contains my **resume**, 
 
 - **Languages:** Python, SQL  
 - **Tools:** Power BI, Excel, Tableau, GitHub  
-- **Libraries:** Pandas, Matplotlib, Seaborn  
+- **Libraries:** Pandas,Numpy, Matplotlib, Seaborn  
 - **Concepts:** EDA, Dashboarding, Data Cleaning, Reporting, Business Intelligence  
 
 ---
@@ -45,6 +45,8 @@ Welcome to my data analytics portfolio! This repository contains my **resume**, 
 - Analytics Virtual Experience – **Forage**  
 - Python for Beginners – **Microsoft**  
 - Internship Certificate – **Technology Next**
+- Oracle Certified AI Foundations Associate - **Oracle Cloud**
+- Oracle Certified Foundations Associate
 
 ---
 
